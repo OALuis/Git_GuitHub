@@ -1,5 +1,5 @@
 Primer cambio en el archivo numero uno.
 Segundo cambio en el archivo numero uno.
-Tercer cambio en el archivo nuemro uno.
+Tercer cambio en el archivo numero uno.
 Cuarto cambio para ver como se sincroniza nuestro repositorio 
 local en git con el repositorio en la nube de github.
