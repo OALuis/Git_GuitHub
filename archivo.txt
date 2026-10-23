@@ -3,3 +3,6 @@ Segundo cambio en el archivo numero uno.
 Tercer cambio en el archivo numero uno.
 Cuarto cambio para ver como se sincroniza nuestro repositorio 
 local en git con el repositorio en la nube de github.
+
+Estoy haciendo un cambio al archivo desde el repositorio en la nube,
+simulando que soy un segundo o tecero trabajando en el.
