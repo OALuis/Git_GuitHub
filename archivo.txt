@@ -3,3 +3,5 @@ Segundo cambio en el archivo numero uno.
 Tercer cambio en el archivo numero uno.
 Cuarto cambio para ver como se sincroniza nuestro repositorio 
 local en git con el repositorio en la nube de github.
+
+Elimine la rama master y configure la rama principal como main
