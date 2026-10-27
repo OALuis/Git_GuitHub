@@ -1,0 +1,2 @@
+Que pasa cuando un archivo se le hace add y commit para
+paralo ya definitivamente al repositorio local?
