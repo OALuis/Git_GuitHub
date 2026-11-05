@@ -1,0 +1,2 @@
+Creamos un archivo para ejemplificar el funcionamiento del
+comando git marge
