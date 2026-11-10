@@ -1,0 +1,2 @@
+En este apartado veremos lo que es el termino del
+git merge recursive
