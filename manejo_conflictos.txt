@@ -1,2 +1,3 @@
 -Ejemplo de manejo de conflictos en git-
 Agrege un cambio desde la rama_conflictos
+Cambios desde rama_conflictos2
